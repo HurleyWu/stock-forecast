@@ -13,3 +13,8 @@ $ python3 -m venv venv
 Before you work on your project, activate the corresponding environment:
 
 $ . venv/bin/activate
+
+
+## 从requirements.txt安装依赖库
+
+pip install -r requirements.txt
