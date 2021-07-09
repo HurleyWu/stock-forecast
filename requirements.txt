@@ -1,0 +1,8 @@
+jupyterlab
+pandas
+tushare
+pyecharts
+statsmodels
+matplotlib
+keras
+tensorflow
